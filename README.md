@@ -8,7 +8,6 @@ This project focuses entirely on backend architecture and API development, inclu
 
 ## 🚀 Live Demo
 
-- 🌐 Production URL: https://dilsahsen.pythonanywhere.com/
 - 📚 API Documentation: https://dilsahsen.pythonanywhere.com/api/docs/
 
 ---
